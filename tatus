@@ -1,0 +1,9 @@
+[33mcommit af1c72fad12c6124f7e4a1ff0a67e8ec8e1a533a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 000081a 882f60b
+Author: CE-zevkirlioglu <tcemre27@hotmail.com>
+Date:   Wed Aug 6 23:49:48 2025 +0300
+
+    Update StatisticPage component
+
+src/components/Exams.jsx
+src/components/TestsPage.jsx
